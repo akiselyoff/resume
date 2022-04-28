@@ -50,7 +50,7 @@ body {
     color: #595959;
 }
 
-.about-me-section {}
+/* .about-me-section {} */
 .project-section {
     margin-bottom: 50px;
 }
@@ -84,7 +84,7 @@ body {
     line-height: 24px;
     color: #000;
 }
-.experience-section {}
+/* .experience-section {} */
 .work-experience-company,
 .education-university {
     color: #FB6D3A;
@@ -124,7 +124,7 @@ body {
     color: #595959;
 
 }
-.education-section {}
+/* .education-section {} */
 
 .sidebar-section {
     background-color: #1E2939;
